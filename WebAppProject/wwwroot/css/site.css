@@ -1,0 +1,137 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.btn:focus,
+.btn:active:focus,
+.btn-link.nav-link:focus,
+.form-control:focus,
+.form-check-input:focus {
+  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+
+.input-invalid {
+  border: 2px solid red;
+}
+
+.form-group-container {
+  max-width: 350px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #fff;
+  border-radius: 4px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+.form-group label {
+  display: block;
+  margin-bottom: 5px;
+  font-size: 14px;
+  font-weight: 700;
+}
+
+.form-group input.form-control {
+  width: 100%;
+  padding: 8px 12px;
+  margin-bottom: 20px;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+  box-sizing: border-box; /* makes padding not affect the total width */
+}
+
+.form-group input.form-control:focus {
+  border-color: #f90;
+  box-shadow: 0 0 0 3px rgba(255, 153, 0, 0.5);
+}
+
+.btn-primary {
+  display: block;
+  width: 100%;
+  padding: 10px;
+  font-size: 18px;
+  font-weight: 700;
+  color: #fff;
+  background-color: #f90;
+  border: none;
+  border-radius: 3px;
+  cursor: pointer;
+  margin-bottom: 20px;
+}
+
+.btn-primary:hover {
+  background-color: #e89a00;
+}
+
+#message {
+  color: red;
+  font-size: 12px;
+}
+
+/* Additional styles for structural layout */
+body {
+  background-color: #eaeded;
+  font-family: Arial, sans-serif;
+  font-size: 14px;
+}
+
+/* Center the form on the page */
+.container {
+  width: 100%;
+  max-width: 400px;
+  margin: 50px auto;
+}
+
+.centered-text {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
+
+.navbar-center .navbar-collapse {
+  justify-content: center;
+}
+.navbar-center .navbar-brand {
+  flex-grow: 1; /* This will allow the brand to center if there are no other elements */
+  text-align: center;
+}
+
+.error-message {
+  margin-bottom: 10px;
+}
+
+.input-wrapper {
+  position: relative;
+  display: block;
+}
+
+.input-wrapper::before {
+  content: "$";
+  position: absolute;
+  left: 10px; /* Adjust as needed */
+  top: 50%;
+  transform: translateY(-50%);
+  color: #555;
+  pointer-events: none;
+  font-size: 16px;
+}
+
+#numberInput {
+  padding-left: 24px; /* Make room for the $ symbol */
+  /* Additional styling to match your form */
+  width: calc(100% - 24px);
+}

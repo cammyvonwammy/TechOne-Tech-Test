@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Cameron-Brett-TechOne-Technical-Test", "WebAppProject\Cameron-Brett-TechOne-Technical-Test.csproj", "{C4824355-40A4-4138-9988-D476D77270C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAppProject.Test", "WebAppProject.Test\WebAppProject.Test.csproj", "{58D28545-82A1-430F-98A1-C9DE1FBFE57D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C4824355-40A4-4138-9988-D476D77270C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4824355-40A4-4138-9988-D476D77270C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4824355-40A4-4138-9988-D476D77270C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4824355-40A4-4138-9988-D476D77270C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58D28545-82A1-430F-98A1-C9DE1FBFE57D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58D28545-82A1-430F-98A1-C9DE1FBFE57D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58D28545-82A1-430F-98A1-C9DE1FBFE57D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58D28545-82A1-430F-98A1-C9DE1FBFE57D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E6270296-6750-4391-82B4-ED0C31DE2994}
+	EndGlobalSection
+EndGlobal

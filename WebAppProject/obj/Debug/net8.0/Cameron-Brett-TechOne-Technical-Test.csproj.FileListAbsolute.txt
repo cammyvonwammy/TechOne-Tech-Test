@@ -1,0 +1,90 @@
+C:\Users\zecurmin\Desktop\Cameron-Brett-TechOne-Technical-Test\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\zecurmin\Desktop\Cameron-Brett-TechOne-Technical-Test\bin\Debug\net8.0\appsettings.json
+C:\Users\zecurmin\Desktop\Cameron-Brett-TechOne-Technical-Test\bin\Debug\net8.0\Cameron-Brett-TechOne-Technical-Test.staticwebassets.runtime.json
+C:\Users\zecurmin\Desktop\Cameron-Brett-TechOne-Technical-Test\bin\Debug\net8.0\Cameron-Brett-TechOne-Technical-Test.exe
+C:\Users\zecurmin\Desktop\Cameron-Brett-TechOne-Technical-Test\bin\Debug\net8.0\Cameron-Brett-TechOne-Technical-Test.deps.json
+C:\Users\zecurmin\Desktop\Cameron-Brett-TechOne-Technical-Test\bin\Debug\net8.0\Cameron-Brett-TechOne-Technical-Test.runtimeconfig.json
+C:\Users\zecurmin\Desktop\Cameron-Brett-TechOne-Technical-Test\bin\Debug\net8.0\Cameron-Brett-TechOne-Technical-Test.dll
+C:\Users\zecurmin\Desktop\Cameron-Brett-TechOne-Technical-Test\bin\Debug\net8.0\Cameron-Brett-TechOne-Technical-Test.pdb
+C:\Users\zecurmin\Desktop\Cameron-Brett-TechOne-Technical-Test\obj\Debug\net8.0\Cameron-Brett-TechOne-Technical-Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zecurmin\Desktop\Cameron-Brett-TechOne-Technical-Test\obj\Debug\net8.0\Cameron-Brett-TechOne-Technical-Test.AssemblyInfoInputs.cache
+C:\Users\zecurmin\Desktop\Cameron-Brett-TechOne-Technical-Test\obj\Debug\net8.0\Cameron-Brett-TechOne-Technical-Test.AssemblyInfo.cs
+C:\Users\zecurmin\Desktop\Cameron-Brett-TechOne-Technical-Test\obj\Debug\net8.0\Cameron-Brett-TechOne-Technical-Test.csproj.CoreCompileInputs.cache
+C:\Users\zecurmin\Desktop\Cameron-Brett-TechOne-Technical-Test\obj\Debug\net8.0\Cameron-Brett-TechOne-Technical-Test.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\zecurmin\Desktop\Cameron-Brett-TechOne-Technical-Test\obj\Debug\net8.0\Cameron-Brett-TechOne-Technical-Test.RazorAssemblyInfo.cache
+C:\Users\zecurmin\Desktop\Cameron-Brett-TechOne-Technical-Test\obj\Debug\net8.0\Cameron-Brett-TechOne-Technical-Test.RazorAssemblyInfo.cs
+C:\Users\zecurmin\Desktop\Cameron-Brett-TechOne-Technical-Test\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\zecurmin\Desktop\Cameron-Brett-TechOne-Technical-Test\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\zecurmin\Desktop\Cameron-Brett-TechOne-Technical-Test\obj\Debug\net8.0\staticwebassets\msbuild.Cameron-Brett-TechOne-Technical-Test.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\zecurmin\Desktop\Cameron-Brett-TechOne-Technical-Test\obj\Debug\net8.0\staticwebassets\msbuild.build.Cameron-Brett-TechOne-Technical-Test.props
+C:\Users\zecurmin\Desktop\Cameron-Brett-TechOne-Technical-Test\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Cameron-Brett-TechOne-Technical-Test.props
+C:\Users\zecurmin\Desktop\Cameron-Brett-TechOne-Technical-Test\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Cameron-Brett-TechOne-Technical-Test.props
+C:\Users\zecurmin\Desktop\Cameron-Brett-TechOne-Technical-Test\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\zecurmin\Desktop\Cameron-Brett-TechOne-Technical-Test\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\zecurmin\Desktop\Cameron-Brett-TechOne-Technical-Test\obj\Debug\net8.0\scopedcss\bundle\Cameron-Brett-TechOne-Technical-Test.styles.css
+C:\Users\zecurmin\Desktop\Cameron-Brett-TechOne-Technical-Test\obj\Debug\net8.0\scopedcss\projectbundle\Cameron-Brett-TechOne-Technical-Test.bundle.scp.css
+C:\Users\zecurmin\Desktop\Cameron-Brett-TechOne-Technical-Test\obj\Debug\net8.0\Cameron-Brett-TechOne-Technical-Test.dll
+C:\Users\zecurmin\Desktop\Cameron-Brett-TechOne-Technical-Test\obj\Debug\net8.0\refint\Cameron-Brett-TechOne-Technical-Test.dll
+C:\Users\zecurmin\Desktop\Cameron-Brett-TechOne-Technical-Test\obj\Debug\net8.0\Cameron-Brett-TechOne-Technical-Test.pdb
+C:\Users\zecurmin\Desktop\Cameron-Brett-TechOne-Technical-Test\obj\Debug\net8.0\Cameron-Brett-TechOne-Technical-Test.genruntimeconfig.cache
+C:\Users\zecurmin\Desktop\Cameron-Brett-TechOne-Technical-Test\obj\Debug\net8.0\ref\Cameron-Brett-TechOne-Technical-Test.dll
+C:\Users\zecurmin\Desktop\Cameron-Brett-TechOne-Technical-Test - Copy\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\zecurmin\Desktop\Cameron-Brett-TechOne-Technical-Test - Copy\bin\Debug\net8.0\appsettings.json
+C:\Users\zecurmin\Desktop\Cameron-Brett-TechOne-Technical-Test - Copy\bin\Debug\net8.0\Cameron-Brett-TechOne-Technical-Test.staticwebassets.runtime.json
+C:\Users\zecurmin\Desktop\Cameron-Brett-TechOne-Technical-Test - Copy\bin\Debug\net8.0\Cameron-Brett-TechOne-Technical-Test.exe
+C:\Users\zecurmin\Desktop\Cameron-Brett-TechOne-Technical-Test - Copy\bin\Debug\net8.0\Cameron-Brett-TechOne-Technical-Test.deps.json
+C:\Users\zecurmin\Desktop\Cameron-Brett-TechOne-Technical-Test - Copy\bin\Debug\net8.0\Cameron-Brett-TechOne-Technical-Test.runtimeconfig.json
+C:\Users\zecurmin\Desktop\Cameron-Brett-TechOne-Technical-Test - Copy\bin\Debug\net8.0\Cameron-Brett-TechOne-Technical-Test.dll
+C:\Users\zecurmin\Desktop\Cameron-Brett-TechOne-Technical-Test - Copy\bin\Debug\net8.0\Cameron-Brett-TechOne-Technical-Test.pdb
+C:\Users\zecurmin\Desktop\Cameron-Brett-TechOne-Technical-Test - Copy\obj\Debug\net8.0\Cameron-Brett-TechOne-Technical-Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zecurmin\Desktop\Cameron-Brett-TechOne-Technical-Test - Copy\obj\Debug\net8.0\Cameron-Brett-TechOne-Technical-Test.AssemblyInfoInputs.cache
+C:\Users\zecurmin\Desktop\Cameron-Brett-TechOne-Technical-Test - Copy\obj\Debug\net8.0\Cameron-Brett-TechOne-Technical-Test.AssemblyInfo.cs
+C:\Users\zecurmin\Desktop\Cameron-Brett-TechOne-Technical-Test - Copy\obj\Debug\net8.0\Cameron-Brett-TechOne-Technical-Test.csproj.CoreCompileInputs.cache
+C:\Users\zecurmin\Desktop\Cameron-Brett-TechOne-Technical-Test - Copy\obj\Debug\net8.0\Cameron-Brett-TechOne-Technical-Test.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\zecurmin\Desktop\Cameron-Brett-TechOne-Technical-Test - Copy\obj\Debug\net8.0\Cameron-Brett-TechOne-Technical-Test.RazorAssemblyInfo.cache
+C:\Users\zecurmin\Desktop\Cameron-Brett-TechOne-Technical-Test - Copy\obj\Debug\net8.0\Cameron-Brett-TechOne-Technical-Test.RazorAssemblyInfo.cs
+C:\Users\zecurmin\Desktop\Cameron-Brett-TechOne-Technical-Test - Copy\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\zecurmin\Desktop\Cameron-Brett-TechOne-Technical-Test - Copy\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\zecurmin\Desktop\Cameron-Brett-TechOne-Technical-Test - Copy\obj\Debug\net8.0\staticwebassets\msbuild.Cameron-Brett-TechOne-Technical-Test.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\zecurmin\Desktop\Cameron-Brett-TechOne-Technical-Test - Copy\obj\Debug\net8.0\staticwebassets\msbuild.build.Cameron-Brett-TechOne-Technical-Test.props
+C:\Users\zecurmin\Desktop\Cameron-Brett-TechOne-Technical-Test - Copy\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Cameron-Brett-TechOne-Technical-Test.props
+C:\Users\zecurmin\Desktop\Cameron-Brett-TechOne-Technical-Test - Copy\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Cameron-Brett-TechOne-Technical-Test.props
+C:\Users\zecurmin\Desktop\Cameron-Brett-TechOne-Technical-Test - Copy\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\zecurmin\Desktop\Cameron-Brett-TechOne-Technical-Test - Copy\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\zecurmin\Desktop\Cameron-Brett-TechOne-Technical-Test - Copy\obj\Debug\net8.0\scopedcss\bundle\Cameron-Brett-TechOne-Technical-Test.styles.css
+C:\Users\zecurmin\Desktop\Cameron-Brett-TechOne-Technical-Test - Copy\obj\Debug\net8.0\scopedcss\projectbundle\Cameron-Brett-TechOne-Technical-Test.bundle.scp.css
+C:\Users\zecurmin\Desktop\Cameron-Brett-TechOne-Technical-Test - Copy\obj\Debug\net8.0\Cameron-Brett-TechOne-Technical-Test.dll
+C:\Users\zecurmin\Desktop\Cameron-Brett-TechOne-Technical-Test - Copy\obj\Debug\net8.0\refint\Cameron-Brett-TechOne-Technical-Test.dll
+C:\Users\zecurmin\Desktop\Cameron-Brett-TechOne-Technical-Test - Copy\obj\Debug\net8.0\Cameron-Brett-TechOne-Technical-Test.pdb
+C:\Users\zecurmin\Desktop\Cameron-Brett-TechOne-Technical-Test - Copy\obj\Debug\net8.0\Cameron-Brett-TechOne-Technical-Test.genruntimeconfig.cache
+C:\Users\zecurmin\Desktop\Cameron-Brett-TechOne-Technical-Test - Copy\obj\Debug\net8.0\ref\Cameron-Brett-TechOne-Technical-Test.dll
+C:\Users\zecurmin\Desktop\Cameron-Brett-TechOne-Technical-Test\WebAppProject\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\zecurmin\Desktop\Cameron-Brett-TechOne-Technical-Test\WebAppProject\bin\Debug\net8.0\appsettings.json
+C:\Users\zecurmin\Desktop\Cameron-Brett-TechOne-Technical-Test\WebAppProject\bin\Debug\net8.0\Cameron-Brett-TechOne-Technical-Test.staticwebassets.runtime.json
+C:\Users\zecurmin\Desktop\Cameron-Brett-TechOne-Technical-Test\WebAppProject\bin\Debug\net8.0\Cameron-Brett-TechOne-Technical-Test.exe
+C:\Users\zecurmin\Desktop\Cameron-Brett-TechOne-Technical-Test\WebAppProject\bin\Debug\net8.0\Cameron-Brett-TechOne-Technical-Test.deps.json
+C:\Users\zecurmin\Desktop\Cameron-Brett-TechOne-Technical-Test\WebAppProject\bin\Debug\net8.0\Cameron-Brett-TechOne-Technical-Test.runtimeconfig.json
+C:\Users\zecurmin\Desktop\Cameron-Brett-TechOne-Technical-Test\WebAppProject\bin\Debug\net8.0\Cameron-Brett-TechOne-Technical-Test.dll
+C:\Users\zecurmin\Desktop\Cameron-Brett-TechOne-Technical-Test\WebAppProject\bin\Debug\net8.0\Cameron-Brett-TechOne-Technical-Test.pdb
+C:\Users\zecurmin\Desktop\Cameron-Brett-TechOne-Technical-Test\WebAppProject\obj\Debug\net8.0\Cameron-Brett-TechOne-Technical-Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zecurmin\Desktop\Cameron-Brett-TechOne-Technical-Test\WebAppProject\obj\Debug\net8.0\Cameron-Brett-TechOne-Technical-Test.AssemblyInfoInputs.cache
+C:\Users\zecurmin\Desktop\Cameron-Brett-TechOne-Technical-Test\WebAppProject\obj\Debug\net8.0\Cameron-Brett-TechOne-Technical-Test.AssemblyInfo.cs
+C:\Users\zecurmin\Desktop\Cameron-Brett-TechOne-Technical-Test\WebAppProject\obj\Debug\net8.0\Cameron-Brett-TechOne-Technical-Test.csproj.CoreCompileInputs.cache
+C:\Users\zecurmin\Desktop\Cameron-Brett-TechOne-Technical-Test\WebAppProject\obj\Debug\net8.0\Cameron-Brett-TechOne-Technical-Test.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\zecurmin\Desktop\Cameron-Brett-TechOne-Technical-Test\WebAppProject\obj\Debug\net8.0\Cameron-Brett-TechOne-Technical-Test.RazorAssemblyInfo.cache
+C:\Users\zecurmin\Desktop\Cameron-Brett-TechOne-Technical-Test\WebAppProject\obj\Debug\net8.0\Cameron-Brett-TechOne-Technical-Test.RazorAssemblyInfo.cs
+C:\Users\zecurmin\Desktop\Cameron-Brett-TechOne-Technical-Test\WebAppProject\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\zecurmin\Desktop\Cameron-Brett-TechOne-Technical-Test\WebAppProject\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\zecurmin\Desktop\Cameron-Brett-TechOne-Technical-Test\WebAppProject\obj\Debug\net8.0\staticwebassets\msbuild.Cameron-Brett-TechOne-Technical-Test.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\zecurmin\Desktop\Cameron-Brett-TechOne-Technical-Test\WebAppProject\obj\Debug\net8.0\staticwebassets\msbuild.build.Cameron-Brett-TechOne-Technical-Test.props
+C:\Users\zecurmin\Desktop\Cameron-Brett-TechOne-Technical-Test\WebAppProject\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Cameron-Brett-TechOne-Technical-Test.props
+C:\Users\zecurmin\Desktop\Cameron-Brett-TechOne-Technical-Test\WebAppProject\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Cameron-Brett-TechOne-Technical-Test.props
+C:\Users\zecurmin\Desktop\Cameron-Brett-TechOne-Technical-Test\WebAppProject\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\zecurmin\Desktop\Cameron-Brett-TechOne-Technical-Test\WebAppProject\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\zecurmin\Desktop\Cameron-Brett-TechOne-Technical-Test\WebAppProject\obj\Debug\net8.0\scopedcss\bundle\Cameron-Brett-TechOne-Technical-Test.styles.css
+C:\Users\zecurmin\Desktop\Cameron-Brett-TechOne-Technical-Test\WebAppProject\obj\Debug\net8.0\scopedcss\projectbundle\Cameron-Brett-TechOne-Technical-Test.bundle.scp.css
+C:\Users\zecurmin\Desktop\Cameron-Brett-TechOne-Technical-Test\WebAppProject\obj\Debug\net8.0\Cameron-Brett-TechOne-Technical-Test.dll
+C:\Users\zecurmin\Desktop\Cameron-Brett-TechOne-Technical-Test\WebAppProject\obj\Debug\net8.0\refint\Cameron-Brett-TechOne-Technical-Test.dll
+C:\Users\zecurmin\Desktop\Cameron-Brett-TechOne-Technical-Test\WebAppProject\obj\Debug\net8.0\Cameron-Brett-TechOne-Technical-Test.pdb
+C:\Users\zecurmin\Desktop\Cameron-Brett-TechOne-Technical-Test\WebAppProject\obj\Debug\net8.0\Cameron-Brett-TechOne-Technical-Test.genruntimeconfig.cache
+C:\Users\zecurmin\Desktop\Cameron-Brett-TechOne-Technical-Test\WebAppProject\obj\Debug\net8.0\ref\Cameron-Brett-TechOne-Technical-Test.dll

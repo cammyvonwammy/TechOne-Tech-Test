@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Cameron-Brett-TechOne-Technical-Test.props" />
+</Project>
